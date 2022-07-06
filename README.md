@@ -14,5 +14,14 @@ O projeto foi o trabalho de conclusão do módulo que tratava de HTML5 e CSS na 
 <img src="https://github.com/Gui-P-Oliveira/Projeto-site-responsivo/blob/7f295f796b0b88d036f39c7da562d2e49bad7ff6/Projeto-site-responsivo/videos/ezgif.com-gif-maker.gif" width="800" height="410">  
 
 - Para avaliar a responsividade abra a ferramenta **devtools** (tecla f12 no google chrome)/ **toggle device toolbar**  
-- A ferramenta **Lighthouse** poderá fornecer informações sobre performance, seo, best practices entre outras métricas.
+- A ferramenta **Lighthouse** poderá fornecer informações sobre performance, seo, best practices entre outras métricas.  
+
+## Próximos passos  
+
+- Melhorar o UX/UI da página.  
+- Melhorar os mecanismos de SEO e Acessibilidade através da semântica no HTML.  
+- Reformular o layout dos itens da página para dispositivos mobile.
+
+
+
 
